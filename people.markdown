@@ -1,7 +1,7 @@
 ---
 layout: single
 title: People
-permalink: /People/
+permalink: /people/
 header:
   overlay_color: "#5e616c"
   overlay_image: headerResearch.jpeg

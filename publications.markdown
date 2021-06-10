@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Publications
-permalink: /Publications/
+permalink: /publications/
 header:
   overlay_color: "#5e616c"
   overlay_image: headerResearch.jpeg

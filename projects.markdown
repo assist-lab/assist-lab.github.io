@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Projects
-permalink: /Projects/
+permalink: /projects/
 header:
   overlay_color: "#5e616c"
   overlay_image: headerResearch.jpeg

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Events
-permalink: /Events/
+permalink: /events/
 header:
   overlay_color: "#5e616c"
   overlay_image: headerResearch.jpeg
